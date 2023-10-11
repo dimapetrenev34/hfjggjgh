@@ -1,1 +1,1 @@
-print('https://github.com/dimapetrenev34/jolo.git')
+print('Petrenev Dima')
